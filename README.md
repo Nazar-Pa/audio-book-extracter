@@ -1,3 +1,5 @@
+<img width="1864" height="910" alt="image" src="https://github.com/user-attachments/assets/53f149ca-c5b7-431a-a96c-f08133f6bb6a" />
+
 # AudioBook Generator
 
 A full-stack web application that converts English PDF books into audiobooks using the browser's built-in Text-to-Speech engine. Upload a PDF, and the app extracts the text, stores the book locally in your browser, and reads it aloud — no cloud TTS service, no audio files, no ongoing cost.
